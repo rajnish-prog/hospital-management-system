@@ -37,7 +37,7 @@
 
 
 
-# We Also We Use POSTMAN:-
+# Also We Use POSTMAN:-
     - Postman is an API(application programming interface) development tool that helps to build, test, and modify APIs.
 
 
